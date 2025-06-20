@@ -2,6 +2,8 @@
 
 A comprehensive metrics dashboard built with PatternFly React components, featuring interactive charts, data tables, and responsive design.
 
+Preview:  https://pf-metrics-vibe-code-test.surge.sh/
+
 ## Features
 
 - **5 Complete Pages**: Home page plus dedicated Web, Component, Product, and Search metrics pages
